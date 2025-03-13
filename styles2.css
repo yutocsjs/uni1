@@ -41,6 +41,7 @@ h1 {
 
 .lessons {
     display: flex !important;
+    padding-left: 3vw;
     flex-wrap: wrap;  /* 複数行に折り返し */
     gap: 3vw; 
     justify-content: center; /* アイテム間の隙間 */
